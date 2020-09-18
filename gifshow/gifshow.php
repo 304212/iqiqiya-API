@@ -123,7 +123,7 @@ function zz3_video2($content){
     $Vid = $matches[1];
     return $Vid;
 }
-$url= 'http://m.gifshow.com/s/bM7HaGyz';
+$url= 'https://live.kuaishou.com/u/3x7n783w4b5nrrk/3xxeari7z56a3a6?did=web_4d03040c61330b46b889791bb187895f';
 //$url='http://m.gifshow.com/s/s8HR5qXM';
 $content1 = getLocation($url);
 //echo $content1;
